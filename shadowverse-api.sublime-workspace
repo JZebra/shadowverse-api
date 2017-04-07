@@ -1,0 +1,1327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"parse",
+				"parse_card"
+			],
+			[
+				"follow",
+				"follower2_url\tstatement"
+			],
+			[
+				"pars",
+				"parse_card\tfunction"
+			],
+			[
+				"attr",
+				"attr_map\tstatement"
+			],
+			[
+				"name",
+				"name_map\tstatement"
+			],
+			[
+				"parse_",
+				"parse_attrs\tfunction"
+			],
+			[
+				"res",
+				"resp\tstatement"
+			],
+			[
+				"parse_de",
+				"parse_details\tfunction"
+			],
+			[
+				"parse_det",
+				"parse_detail_row\tfunction"
+			],
+			[
+				"format",
+				"format_string\tfunction"
+			],
+			[
+				"detail",
+				"detail_map\tstatement"
+			],
+			[
+				"tran",
+				"translation_table\tstatement"
+			],
+			[
+				"el",
+				"elf_resp\tstatement"
+			],
+			[
+				"folower",
+				"follower2_url"
+			],
+			[
+				"golb",
+				"goblin_resp\tstatement"
+			],
+			[
+				"gob",
+				"goblin_resp\tstatement"
+			],
+			[
+				"fol",
+				"follower2_url\tstatement"
+			],
+			[
+				"text",
+				"text_list\tstatement"
+			],
+			[
+				"parse_car",
+				"parse_card_text\tfunction"
+			],
+			[
+				"as",
+				"assertEquals"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"folloe",
+				"follower_text"
+			],
+			[
+				"follo",
+				"follower_resp\tstatement"
+			],
+			[
+				"get",
+				"get_and_store_response"
+			],
+			[
+				"BE",
+				"BetamaxTestCase\timport"
+			],
+			[
+				"car",
+				"card_obj"
+			],
+			[
+				"url",
+				"url_root"
+			],
+			[
+				"cards",
+				"cards_per_page"
+			],
+			[
+				"de",
+				"decorator\tfunction"
+			],
+			[
+				"current",
+				"current_node\tparam"
+			],
+			[
+				"for",
+				"format\tfunction"
+			],
+			[
+				"game",
+				"game_map\tstatement"
+			],
+			[
+				"str",
+				"strong_dest\tstatement"
+			],
+			[
+				"mock",
+				"mock_find_nearest_target\tparam"
+			],
+			[
+				"find",
+				"find_nearest_target"
+			],
+			[
+				"can",
+				"can_capture"
+			],
+			[
+				"sto",
+				"store_map\tfunction"
+			],
+			[
+				"sotr",
+				"store_map\tfunction"
+			],
+			[
+				"asser",
+				"assertEqual\tfunction"
+			],
+			[
+				"sta",
+				"starting_loc\tstatement"
+			],
+			[
+				"create",
+				"create_sample_node\tfunction"
+			],
+			[
+				"Ma",
+				"MapNodeTest\tclass"
+			],
+			[
+				"crea",
+				"create_sample_node\tfunction"
+			],
+			[
+				"conta",
+				"contains_enemy\tfunction"
+			],
+			[
+				"asse",
+				"assertEqual\tfunction"
+			],
+			[
+				"te",
+				"TestCase\tclass"
+			],
+			[
+				"S",
+				"SOUTH\tstatement"
+			],
+			[
+				"init",
+				"init_bot_and_map"
+			],
+			[
+				"map_",
+				"map_string\tstatement"
+			],
+			[
+				"map",
+				"map_size\tstatement"
+			],
+			[
+				"input",
+				"inputString\tparam"
+			],
+			[
+				"captur",
+				"capture_move\tstatement"
+			],
+			[
+				"di",
+				"direction\tstatement"
+			],
+			[
+				"loca",
+				"location\tparam"
+			],
+			[
+				"is",
+				"is_friend"
+			],
+			[
+				"chil",
+				"children"
+			],
+			[
+				"Map",
+				"MapTree"
+			],
+			[
+				"se",
+				"set_trace\tfunction"
+			],
+			[
+				"own",
+				"owner_id\tparam"
+			],
+			[
+				"ow",
+				"owner_id\tparam"
+			],
+			[
+				"bottom",
+				"bottommost_y\tstatement"
+			],
+			[
+				"top",
+				"topmost_y"
+			],
+			[
+				"right",
+				"rightmost_x\tstatement"
+			],
+			[
+				"__m",
+				"__name__\tinstance"
+			],
+			[
+				"min",
+				"min_distance\tstatement"
+			],
+			[
+				"dis",
+				"distance_west\tstatement"
+			],
+			[
+				"dist",
+				"distance_south\tstatement"
+			],
+			[
+				"is_",
+				"is_friendly"
+			],
+			[
+				"src",
+				"src_loc\tparam"
+			],
+			[
+				"gnee",
+				"generate_borders"
+			],
+			[
+				"border",
+				"border_map"
+			],
+			[
+				"bot",
+				"bot_id\tstatement"
+			],
+			[
+				"act",
+				"action1"
+			],
+			[
+				"dir",
+				"direction\tstatement"
+			],
+			[
+				"store",
+				"store_action\tfunction"
+			],
+			[
+				"ass",
+				"assertFalse\tfunction"
+			],
+			[
+				"loc",
+				"loc1"
+			],
+			[
+				"ac",
+				"action1"
+			],
+			[
+				"assert",
+				"assertEqual\tfunction"
+			],
+			[
+				"tr",
+				"set_trace\tfunction"
+			],
+			[
+				"las",
+				"last_actions\tstatement"
+			],
+			[
+				"ta",
+				"tanh\tfunction"
+			],
+			[
+				"dire",
+				"direction"
+			],
+			[
+				"previ",
+				"previous_dir"
+			],
+			[
+				"prev",
+				"previous_dir\tstatement"
+			],
+			[
+				"borr",
+				"border_map\tstatement"
+			],
+			[
+				"pre",
+				"previous_dir\tstatement"
+			],
+			[
+				"march",
+				"march_move\tstatement"
+			],
+			[
+				"last",
+				"last_actions"
+			],
+			[
+				"mar",
+				"march_move\tstatement"
+			],
+			[
+				"cap",
+				"capture_dir\tstatement"
+			],
+			[
+				"capt",
+				"capture_dir\tstatement"
+			],
+			[
+				"nex",
+				"next_str\tstatement"
+			],
+			[
+				"socket",
+				"socket_networking\tmodule"
+			],
+			[
+				"soc",
+				"socket_networking\tmodule"
+			],
+			[
+				"diff",
+				"diff_x"
+			],
+			[
+				"tar",
+				"target_angle"
+			],
+			[
+				"targ",
+				"target_location"
+			],
+			[
+				"bor",
+				"border_location"
+			],
+			[
+				"num",
+				"num_friendlies"
+			],
+			[
+				"lett",
+				"letter_idx"
+			],
+			[
+				"letter",
+				"letter_score_map"
+			],
+			[
+				"total",
+				"total_num_correct"
+			],
+			[
+				"tot",
+				"total_num_correct"
+			],
+			[
+				"gue",
+				"guess"
+			],
+			[
+				"gu",
+				"guess"
+			],
+			[
+				"submi",
+				"submit_guess"
+			],
+			[
+				"fis",
+				"first_guess"
+			],
+			[
+				"guess_",
+				"guess_url"
+			],
+			[
+				"scr",
+				"secret_length"
+			],
+			[
+				"sec",
+				"secret_length"
+			],
+			[
+				"start",
+				"start_game"
+			],
+			[
+				"solver",
+				"solver_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hello.py",
+			"settings":
+			{
+				"buffer_size": 141,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api.py",
+			"settings":
+			{
+				"buffer_size": 1445,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "card.py",
+			"settings":
+			{
+				"buffer_size": 143,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "import unittest\n\nclass CardTest(unittest.TestCase):\n    def test_init():\n        \n",
+			"settings":
+			{
+				"buffer_size": 82,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "card_test.json",
+			"settings":
+			{
+				"buffer_size": 3554,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "conda create --name rest-api python3\nsource activate rest-api\nconda install flask\npip install flask-restful\n#conda install sqlalchemy\npip install flask-mysql\n\n",
+			"settings":
+			{
+				"buffer_size": 159,
+				"line_ending": "Unix",
+				"name": "conda create --name rest-api python3"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "pyth",
+		"selected_items":
+		[
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"shel",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/johnshen/src/shadowverse-api"
+	],
+	"file_history":
+	[
+		"/Users/johnshen/src/shadowverse_scraper/shadowverse_cards/spiders/tests/test_card_spider.py",
+		"/Users/johnshen/src/shadowverse_scraper/cassettes/CardSpiderTest.test_parse_card_name.json",
+		"/Users/johnshen/src/shadowverse_scraper/shadowverse_cards/shadowverse_cards/spiders/card_spider.py",
+		"/Users/johnshen/src/shadowverse_scraper/shadowverse_cards/__init__.py",
+		"/Users/johnshen/src/shadowverse_scraper/__init__.py",
+		"/Users/johnshen/src/shadowverse_scraper/shadowverse_cards/spiders/test_card_spider.py",
+		"/Users/johnshen/src/shadowverse_scraper/quotes-1.html",
+		"/Users/johnshen/src/shadowverse_scraper/shadowverse_cards/shadowverse_cards/spiders/test_card_spider.py",
+		"/Users/johnshen/src/shadowverse_scraper/shadowverse_cards/scrapy.cfg",
+		"/Users/johnshen/src/shadowverse_scraper/scrapy.cfg",
+		"/Users/johnshen/src/shadowverse_scraper/file.csv",
+		"/Users/johnshen/src/shadowverse_scraper/.gitignore",
+		"/Users/johnshen/src/shadowverse_scraper/tutorial/tutorial/spiders/quotes_spider.py",
+		"/Users/johnshen/src/github.com/jzebra/hello/hello.go",
+		"/Users/johnshen/.zshrc",
+		"/Users/johnshen/src/halite-bot/power1.py",
+		"/Users/johnshen/src/halite-bot/power2.py",
+		"/Users/johnshen/src/halite-bot/quadtree.py",
+		"/Users/johnshen/src/halite-bot/networking.py",
+		"/Users/johnshen/src/halite-bot/runGame.sh",
+		"/Users/johnshen/src/halite-bot/hlt.py",
+		"/Users/johnshen/src/halite-bot/node.py",
+		"/Users/johnshen/src/halite-bot/tree.py",
+		"/Users/johnshen/src/halite-bot/test_node.py",
+		"/Users/johnshen/src/halite-bot/test_helpers.py",
+		"/Users/johnshen/src/halite-bot/test_tree.py",
+		"/Users/johnshen/src/halite-bot/bot_test.py",
+		"/Users/johnshen/src/halite-bot/networking.log",
+		"/Users/johnshen/src/halite-bot/MyBot.py",
+		"/Users/johnshen/src/halite-bot/bot_v1.py",
+		"/Users/johnshen/src/halite-bot/BotV1.py",
+		"/Users/johnshen/src/halite-bot/bot_v2.py",
+		"/Users/johnshen/src/halite-bot/socket_networking.py",
+		"/Users/johnshen/src/halite-bot/Makefile",
+		"/Users/johnshen/src/halite-bot/bot_quadtree.py",
+		"/Users/johnshen/src/halite-bot/BotV2.py",
+		"/Users/johnshen/src/halite-bot/middleOut.py",
+		"/Users/johnshen/src/halite-bot/action.py",
+		"/Users/johnshen/src/halite-bot/.gitignore",
+		"/Users/johnshen/src/halite-bot/middleOut02.py",
+		"/Users/johnshen/src/halite-bot/middle_out_test.py",
+		"/Users/johnshen/src/halite-bot/middleOut02.log",
+		"/Users/johnshen/src/halite-bot/action_test.py",
+		"/Users/johnshen/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/johnshen/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/johnshen/src/halite-bot/middleOut01.py",
+		"/Users/johnshen/src/halite-bot/pipe_socket_translator.py",
+		"/Users/johnshen/src/halite-bot/middleOut01.log",
+		"/Users/johnshen/src/halite-bot/middleOut.log",
+		"/Users/johnshen/src/halite-bot/RandomBot.py",
+		"/Users/johnshen/src/halite-bot/1-118267.log",
+		"/Users/johnshen/src/halite-bot/runGame.bat",
+		"/Users/johnshen/src/ud120-projects/naive_bayes/nb_author_id.py",
+		"/Users/johnshen/src/ud120-projects/.gitignore",
+		"/Applications/Hearthstone/DBF/CARD_BACK.xml",
+		"/Users/johnshen/Desktop/automate-eGPU/automate-eGPU.sh",
+		"/System/Library/Frameworks/AVFoundation.framework/Versions/A/Headers/AVVideoCompositing.h",
+		"/Users/johnshen/Desktop/pizzaguy 2.gpg",
+		"/Users/johnshen/Desktop/pizzaguy.gpg",
+		"/Users/johnshen/Downloads/solarized/iterm2-colors-solarized/README.md",
+		"/Users/johnshen/Desktop/alphabay.txt",
+		"/Users/johnshen/Desktop/pizzaguy"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$ pip",
+			"volved_",
+			"Unevolved_text",
+			"volved_text",
+			"_text",
+			"', ",
+			",",
+			"Text",
+			"evolved_text",
+			"unevolved_text",
+			"text",
+			"strip()",
+			"elf_",
+			"goblin_resp",
+			"parse_creature",
+			"follower",
+			"self",
+			"accept",
+			"header",
+			"langu",
+			"header",
+			"elf",
+			"_name",
+			"parse_card_text",
+			"_url",
+			"recorder",
+			"betamax",
+			"paris",
+			"go",
+			"exp",
+			"game_",
+			"current_node",
+			"nb_children",
+			"print_tree",
+			"root",
+			"current_node",
+			"print_tree",
+			".children",
+			"gen_quadtree",
+			"ret",
+			"_log",
+			"_log\\",
+			"_log",
+			"find_nearest_target",
+			"action",
+			"should_farm",
+			"can_capture",
+			"print",
+			"src_site",
+			"dest_loc",
+			"src_loc",
+			"_site",
+			"neighbor",
+			"location",
+			"src",
+			"capture",
+			"location",
+			"can_capture",
+			"owner",
+			"can_capture",
+			"src",
+			"find_direction",
+			"march",
+			"src",
+			"game_map",
+			"self.tree",
+			"gen_quadtree",
+			"inBounds",
+			"self",
+			"contains_friend",
+			"print",
+			"enemy",
+			"pass",
+			"numberOfPlayers",
+			"gen_quadtree",
+			"store_action",
+			"is_stored_destination",
+			"topmost_y",
+			"distances",
+			"game_map",
+			"JZBot",
+			"self.game_map",
+			"getAngle",
+			"gen_quadtree",
+			"game_map",
+			"JZBot",
+			"Site",
+			"getsdtring",
+			"get_player_id",
+			"deserializeMapSize",
+			"deserializeProductions",
+			"get_map",
+			"getFrame",
+			"find_direction",
+			"neighbor",
+			"is_enemy",
+			"location",
+			"should_farm",
+			"can_capture",
+			"log",
+			"port",
+			"find_direction",
+			"location",
+			"src",
+			"x",
+			"is_enemy",
+			"_log",
+			"__eq",
+			"__equa",
+			"prune",
+			"find_nearest_target",
+			"WARNING:quadtree:",
+			"INFO:node:",
+			"#",
+			"int",
+			"location",
+			"node",
+			"1",
+			"'",
+			"leaves",
+			"traverse",
+			"contains",
+			"3005",
+			"bot_id",
+			"getInit",
+			"get_player_id",
+			"get_map",
+			"gen_quadtree"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hello.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								141
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "api.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1173,
+								1173
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "card.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 82,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "card_test.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2737,
+								2737
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"auto_name": "conda create --name rest-api python3",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shadowverse-api.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"json",
+				"cassettes/CardSpiderTest.test_parse_card_name.json"
+			],
+			[
+				"card_",
+				"shadowverse_cards/spiders/card_spider.py"
+			],
+			[
+				"init",
+				"shadowverse_cards/__init__.py"
+			],
+			[
+				"test",
+				"shadowverse_cards/spiders/tests/test_card_spider.py"
+			],
+			[
+				".cfg",
+				"shadowverse_cards/scrapy.cfg"
+			],
+			[
+				"scrap",
+				"scrapy.cfg"
+			],
+			[
+				"scrp",
+				"scrapy.cfg"
+			],
+			[
+				"file",
+				"file.csv"
+			],
+			[
+				"quotes",
+				"tutorial/spiders/quotes_spider.py"
+			],
+			[
+				"quot",
+				"quotes-1.html"
+			],
+			[
+				"hlt",
+				"hlt.py"
+			],
+			[
+				"quad",
+				"quadtree.py"
+			],
+			[
+				"tree",
+				"tree.py"
+			],
+			[
+				"tre",
+				"tree.py"
+			],
+			[
+				"node",
+				"node.py"
+			],
+			[
+				"mybot",
+				"MyBot.py"
+			],
+			[
+				"testno",
+				"test_node.py"
+			],
+			[
+				"botte",
+				"bot_test.py"
+			],
+			[
+				"networ",
+				"networking.py"
+			],
+			[
+				"qu",
+				"quadtree.py"
+			],
+			[
+				"tree.",
+				"tree.py"
+			],
+			[
+				"botv2",
+				"bot_v2.py"
+			],
+			[
+				"botv1",
+				"BotV1.py"
+			],
+			[
+				"bot",
+				"bot_v1.py"
+			],
+			[
+				"botv",
+				"bot_v2.py"
+			],
+			[
+				"myb",
+				"MyBot.py"
+			],
+			[
+				"sock",
+				"socket_networking.py"
+			],
+			[
+				"qua",
+				"quadtree.py"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"mybopt",
+				"MyBot.py"
+			],
+			[
+				"socke",
+				"socket_networking.py"
+			],
+			[
+				"rung",
+				"runGame.sh"
+			],
+			[
+				"ma",
+				"Makefile"
+			],
+			[
+				"gio",
+				".gitignore"
+			],
+			[
+				"got",
+				".gitignore"
+			],
+			[
+				"middleoutte",
+				"middle_out_bot_test.py"
+			],
+			[
+				"gitign",
+				".gitignore"
+			],
+			[
+				"ac",
+				"action_test.py"
+			],
+			[
+				"action",
+				"action_test.py"
+			],
+			[
+				"net",
+				"networking.py"
+			],
+			[
+				"pip",
+				"pipe_socket_translator.py"
+			],
+			[
+				"middle",
+				"middleOut.py"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"runga",
+				"runGame.sh"
+			],
+			[
+				"middl",
+				"middleOut.log"
+			],
+			[
+				"middleou",
+				"middleOut.log"
+			],
+			[
+				"random",
+				"RandomBot.py"
+			],
+			[
+				"rando",
+				"RandomBot.py"
+			],
+			[
+				"rungame",
+				"runGame.sh"
+			],
+			[
+				"rnug",
+				"runGame.bat"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

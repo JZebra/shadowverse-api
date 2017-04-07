@@ -1,0 +1,86 @@
+{
+  "Moon Al-mi'raj": {
+    "faction": "Havencraft",
+    "type": "Follower",
+    "expansion": "Standard Card Pack",
+    "race": "",
+    "hasEvo": true,
+    "rarity": "Legendary",
+    "id": "101741020",
+    "hasAlt": false,
+    "name": "Moon Al-mi'raj",
+    "manaCost": 6,
+    "baseData": {
+      "attack": 3,
+      "defense": 5,
+      "description": "Storm.<br>At the end of your turn, fully restore this follower's defense.",
+      "flair": "A bad bunny rabbit expelled from heaven for rebelling against her heavenly counterparts. Down on earth, Moon Al-mi'raj bathes in the light of the full moon and scoffs at the fate that has befallen her.",
+      "img": "https://shadowverse-portal.com/image/card/en/C_101741020.png?20170330b"
+    },
+    "evoData": {
+      "attack": 5,
+      "defense": 7,
+      "description": "Storm.<br>At the end of your turn, fully restore this follower's defense.",
+      "flair": "The more that Moon Al-mi'raj learned about magic from the moon, the more she came to detest its celestial presence, like a young girl driven half mad by her first love.",
+      "img": "https://shadowverse-portal.com/image/card/en/E_101741020.png?20170330b"
+    },
+    "searchableText": "moon al-mi'raj havencraft storm.<br>at the end of your turn, fully restore this follower's defense. storm.<br>at the end of your turn, fully restore this follower's defense. 6pp 3/5 standard card pack legendary follower",
+    "logo": "https://shadowverse-portal.com/image/card/en/L_101741020.jpg?20170330b"
+  },
+    "Spirit Cycle": {
+    "faction": "Shadowcraft",
+    "type": "Amulet",
+    "expansion": "Darkness Evolved",
+    "race": "",
+    "hasEvo": false,
+    "rarity": "Gold",
+    "id": "102533010",
+    "hasAlt": false,
+    "name": "Spirit Cycle",
+    "manaCost": 3,
+    "baseData": {
+      "attack": 0,
+      "defense": 0,
+      "description": "Countdown (2)<br>At the end of your turn, draw a card.<br>Whenever you use Necromancy, add 1 to this amulet's Countdown.",
+      "flair": "A life is never truly wasted. It can be recycled over and over.",
+      "img": "https://shadowverse-portal.com/image/card/en/C_102533010.png?20170330b"
+    },
+    "evoData": {
+      "attack": 0,
+      "defense": 0,
+      "description": "",
+      "flair": "",
+      "img": ""
+    },
+    "searchableText": "spirit cycle shadowcraft countdown (2)<br>at the end of your turn, draw a card.<br>whenever you use necromancy, add 1 to this amulet's countdown.  3pp 0/0 darkness evolved gold amulet",
+    "logo": "https://shadowverse-portal.com/image/card/en/L_102533010.jpg?20170330b"
+  },
+    "Call of Cocytus": {
+    "faction": "Neutral",
+    "type": "Spell",
+    "expansion": "Rise of Bahamut",
+    "race": "",
+    "hasEvo": false,
+    "rarity": "Silver",
+    "id": "103024010",
+    "hasAlt": false,
+    "name": "Call of Cocytus",
+    "manaCost": 5,
+    "baseData": {
+      "attack": 0,
+      "defense": 0,
+      "description": "Destroy an enemy follower.<br>Enhance (8): Then put a Servant of Darkness into your hand.",
+      "flair": "This power freezes teardrops and screams alike.",
+      "img": "https://shadowverse-portal.com/image/card/en/C_103024010.png?20170330b"
+    },
+    "evoData": {
+      "attack": 0,
+      "defense": 0,
+      "description": "",
+      "flair": "",
+      "img": ""
+    },
+    "searchableText": "call of cocytus neutral destroy an enemy follower.<br>enhance (8): then put a servant of darkness into your hand.  5pp 0/0 rise of bahamut silver spell",
+    "logo": "https://shadowverse-portal.com/image/card/en/L_103024010.jpg?20170330b"
+  }
+}

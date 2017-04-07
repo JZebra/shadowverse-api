@@ -1,0 +1,5 @@
+# MySQL configurations
+MYSQL_DATABASE_USER: ''
+MYSQL_DATABASE_PASSWORD: ''
+MYSQL_DATABASE_DB: 'sv_cards'
+MYSQL_DATABASE_HOST: 'localhost'
