@@ -7,17 +7,6 @@ app = Flask(__name__)
 api = Api(app)
 mysql = MySQL()
 
-# config.yml is not in version control. Make a version based on sample_config.yml
-f = open('./config.yml')
-configs = yaml.safe_load(f)
-f.close()
-
-# MySQL configurations
-app.config['MYSQL_DATABASE_USER'] = configs['MYSQL_DATABASE_USER']
-app.config['MYSQL_DATABASE_PASSWORD'] = configs['MYSQL_DATABASE_PASSWORD']
-app.config['MYSQL_DATABASE_DB'] = configs['MYSQL_DATABASE_DB']
-app.config['MYSQL_DATABASE_HOST'] = configs['MYSQL_DATABASE_HOST']
-
 # sample from tutorial
 # class CreateUser(Resource):
 #     def post(self):
