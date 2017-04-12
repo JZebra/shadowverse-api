@@ -1,4 +1,4 @@
-from card import Card
+from app.models.card import Card
 import unittest
 import json
 
@@ -16,7 +16,3 @@ class CardTest(unittest.TestCase):
         self.card.set_attrs(**json_dict)
         self.assertEquals(self.card.arg1, 'val1')
         self.assertEquals(self.card.arg2, 'val2')
-
-
-
-
