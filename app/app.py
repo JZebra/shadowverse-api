@@ -5,11 +5,12 @@ import jsonpickle
 import yaml
 
 from config import Config
-from models import card
+# from models import card
 
 app = Flask(__name__)
 app.config.from_object(Config)
 db = SQLAlchemy(app)
+test = app.database.Base
 
 mysql = MySQL()
 

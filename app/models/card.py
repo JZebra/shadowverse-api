@@ -1,17 +1,15 @@
-from flask import Flask
-from flask_sqlalchemy import SQLAlchemy
-
 from app import db
+
 
 class Card(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(64), index=True, unique=True)
-    faction = db.Column(db.Integer, index=True) #fk
-    type = db.Column(db.Integer, index=True) #fk
-    expansion = db.Column(db.Integer, index=True) #fk
-    race = db.Column(db.Integer, index=True) #fk currently only used for traits
+    faction = db.Column(db.Integer, db.ForeignKey('faction.id'), index=True)
+    type = db.Column(db.Integer, db.ForeignKey('type.id'), index=True)
+    expansion = db.Column(db.Integer, db.ForeignKey('expansion.id'), index=True)
+    trait = db.Column(db.Integer, db.ForeignKey('trait.id'), index=True)
     hasEvo = db.Column(db.Boolean)
-    rarity = db.Column(db.Integer, index=True) #fk
+    rarity = db.Column(db.Integer, db.ForeignKey('rarit.id'), index=True)
     game_id = db.Column(db.Integer)
     hasAlt = db.Column(db.Integer)
     manaCost = db.Column(db.Integer)

@@ -1,3 +1,4 @@
+import app
 from app.models.card import Card
 import unittest
 import json
